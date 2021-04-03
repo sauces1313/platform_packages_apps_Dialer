@@ -1276,6 +1276,7 @@
          Two-party consent state laws:
            https://recordinglaw.com/party-two-party-consent-states/
     -->
+    
     <country iso="us,vi,gu" allowed="true" />
 
     <!-- Enable recording for Kosovo:
